@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "508495115728",
+    "firebase_url": "https://kpi-catalog.firebaseio.com",
+    "project_id": "kpi-catalog",
+    "storage_bucket": "kpi-catalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508495115728:android:8eb382f96903627e",
+        "android_client_info": {
+          "package_name": "com.example.android.kohlerpowerindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508495115728-rvj869pfssu19nnhdk8kkgudbe6so3jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.kohlerpowerindia",
+            "certificate_hash": "c6030b141dc85e3080c7b0cc18fa98d1f5ad013d"
+          }
+        },
+        {
+          "client_id": "508495115728-2ceki7eerm6n8l1kuds4hu7ngnb3fnjt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "508495115728-2ceki7eerm6n8l1kuds4hu7ngnb3fnjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA56QlSYtGRJqfJrczhBE-FClcAywPheRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508495115728-2ceki7eerm6n8l1kuds4hu7ngnb3fnjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

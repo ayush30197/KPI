@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/type_home"
+            android:title="Categories"
+            android:icon="@drawable/ic_action_home"/>
+        <item
+            android:id="@+id/type1"
+            android:title="REOZM Series"
+            android:icon="@drawable/ic_type1">
+        </item>
+
+        <item
+            android:id="@+id/type2"
+            android:title="KD Series"
+            android:icon="@drawable/ic_type2"
+            />
+
+    </group>
+
+</menu>

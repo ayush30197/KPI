@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">KOHLER</string>
+    <string name="about_us">Kohler entered the power systems market in the early 1920s with the world\'s first
+        engine-driven electrical generator powered by a KOHLER engine.This rugged unit delivered power to rural
+        America prior to the advent of line electricity. Today, the Kohler Global Power Group is comprised of
+        manufacturing facilities for engines and generators in four continents with worldwide sales, service and
+        distribution networks and an arsenal of products and services engineered specifically to meet the demands
+        of the markets they serve.Kohler Global Power Group is currently one of the largest diesel and gas generator
+        manufacturing company known for its reliability, quality and innovative technology with products ranging from
+        3.5 kVA to 4200 kVA.Kohler Power India, commenced its India operation from 1997, operates from its headquarter
+        at Pune, with branches at Delhi, Bangalore, Chennai and Kolkata. The India operation covers India, Nepal, Bhutan
+        and Sri Lanka with extensive channel network and their outlets at almost all the major cities across the country.
+    </string>
+    <string name="products">Products</string>
+    <string name="hq">Headquarter</string>
+    <string name="plant">Plant</string>
+    <string name="phone">Phone : </string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
+    <string name="company_name">Kohler India Corporation Pvt. Ltd.</string>
+    <string name="plant_name">Lombardini India Pvt. Ltd.</string>
+
+    <string name="hq_address">Office No 701-702, 7th Floor,Pentagon Tower P 5,Magarpatta City,Hadapsar Pune - 411013, Maharashtra, India.</string>
+    <string name="plant_address">J-2/1, MIDC Chikaltanaha, CIDCO.,Aurangabad - 431006,Maharashtra, India.</string>
+    <string name="north_address">SCO-9, Second Floor,Sectore 15, Part II, Gurgaon 122001, Haryana, India</string>
+    <string name="south_address">#138/6, 6th A Cross,Ram Vilas Extenstion, Sadashivnagar,Bangalore - 560080, Karnataka, India.</string>
+    <string name="east_address">Unit No,812,8th Floor KRISHNA,224 AJC Bose Road,Kolkata - 700017, West Bengal, India.</string>
+
+    <string name="hq_phone">+91 20 66497101</string>
+    <string name="plant_phone">+91 240 6640117</string>
+
+    <string name="north_phone">+91 124 4250248</string>
+    <string name="north_amit">+91 7722076912 </string>
+    <string name="north_ravinder">+91 9818186399</string>
+
+    <string name="south_phone">+91 080 2361 6208/6831/0231</string>
+    <string name="south_prabhu">+91 9980549530</string>
+    <string name="south_vishwanatha">+91 7353310166</string>
+    <string name="south_suriya">+91 9880433227</string>
+    <string name="south_prakash">+91 9945502672</string>
+
+    <string name="east_phone">+91 33 40633512</string>
+    <string name="east_tanmoy">+91 9831031658</string>
+    <string name="east_surojeet">+91 9088107802</string>
+    <string name="east_joyjeet">+91 9822230022</string>
+    <string name="east_hari">+91 9831063790</string>
+
+    <string name="west_shrikant">+91 9130033901</string>
+    <string name="west_vinod">+91 7028034113</string>
+    <string name="west_jitendra">+919310929700</string>
+    <string name="west_mangesh">+91 9130045467</string>
+
+
+    <string name="north_amit_email">amit.singh@kohler.com</string>
+    <string name="north_ravinder_email">ravinder.singh@kohler.com</string>
+
+    <string name="south_prabhu_email">aravinda.prabhu@kohler.com</string>
+    <string name="south_vishwanatha_email">Vishwanatha.Ha@Kohler.com</string>
+    <string name="south_suriya_email">suriyanarayanan.s@kohler.com</string>
+    <string name="south_prakash_email">prakash.m@kohler.com</string>
+
+    <string name="east_tanmoy_mail">Tanmoy.Chowdhury@kohler.com</string>
+    <string name="east_surojeet_mail">surojeet.majumder@kohler.com</string>
+    <string name="east_joyjeet_mail">joyjeet.bhattacharjee@kohler.com</string>
+    <string name="east_hari_mail">hariom.tiwari@kohler.com</string>
+
+    <string name="west_shrikant_email">shrikant.rao@kohler.com</string>
+    <string name="west_vinod_email">vinod.kapadnis@kohler.com</string>
+    <string name="west_jitendra_email">Jitendra.Goswami@kohler.com</string>
+    <string name="west_mangesh_email">mangesh.karambe@kohler.com</string>
+
+
+</resources>
